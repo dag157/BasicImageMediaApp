@@ -1,0 +1,434 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+	package
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
+		INJECTED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
+	android:versionCode
+		INJECTED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/dominickgurnari/.android/build-cache/bc98886a5b933040c32a1a30e36c4dbf05c04cbc/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/5ce2b89edad1dd0a060441874fe218ef56a814df/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/dominickgurnari/.android/build-cache/717323a8f087b1ff878871b24b11d687671cedcf/output/AndroidManifest.xml:19:5-67
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/dominickgurnari/.android/build-cache/72eae026aa5c6640c040810be3e8d5b6692c0eaf/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/dominickgurnari/.android/build-cache/0577b3a098bcfacd2717e2c4d224a080dc276938/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/210455b912b63a5ef236e2cc2ce865504c25d4f3/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/dominickgurnari/.android/build-cache/70e92747d0b6e9377b22da1d4af89053dfb4f1cd/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/dominickgurnari/.android/build-cache/172681c0faff062686c1d42743bf5b5294d91605/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/dominickgurnari/.android/build-cache/c3059b879327d6957aea2173fce1d7bb6f7b43e3/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/dominickgurnari/.android/build-cache/bc98886a5b933040c32a1a30e36c4dbf05c04cbc/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/5ce2b89edad1dd0a060441874fe218ef56a814df/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/dominickgurnari/.android/build-cache/617cb9ebba876c21b639a157a5bb01363bfba64c/output/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/dominickgurnari/.android/build-cache/70e92747d0b6e9377b22da1d4af89053dfb4f1cd/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/dominickgurnari/.android/build-cache/172681c0faff062686c1d42743bf5b5294d91605/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/dominickgurnari/.android/build-cache/c3059b879327d6957aea2173fce1d7bb6f7b43e3/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
+application
+ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:5-34:19
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/dominickgurnari/.android/build-cache/05b6a6cb09d4bf9ff39e941819c46043555eedf9/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/dominickgurnari/.android/build-cache/bc98886a5b933040c32a1a30e36c4dbf05c04cbc/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/5ce2b89edad1dd0a060441874fe218ef56a814df/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/dominickgurnari/.android/build-cache/717323a8f087b1ff878871b24b11d687671cedcf/output/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/dominickgurnari/.android/build-cache/7e57a070870b8adb2d2bcb1119593432dfd1d9ce/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/dominickgurnari/.android/build-cache/93efc8d6675dc4c4531bb68790a152817fc9eb10/output/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/dominickgurnari/.android/build-cache/d0f670eb2ea4b9b877cdd7ced9836b869f4bfc34/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/dominickgurnari/.android/build-cache/db1297aa55f9b63231317541a9bf265e84f7ff6a/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/dominickgurnari/.android/build-cache/51adcfb3ea1c4b9a76f5b2abf2ddd093bd53bebc/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/dominickgurnari/.android/build-cache/5aef22203bc8034b6cf60e2f528b964dd2e8f303/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/dominickgurnari/.android/build-cache/cb0312e938d3ea22c779bf810635c181b6c00995/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/dominickgurnari/.android/build-cache/6932e8f9c1a6c6a20a47fce745262ecb250f5877/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/dominickgurnari/.android/build-cache/3157a8454660ca6cc429ffb823541dbc4f7f90ee/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/dominickgurnari/.android/build-cache/39c8e841dcbefb0e8d89e759ba583b218dee821a/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/dominickgurnari/.android/build-cache/72eae026aa5c6640c040810be3e8d5b6692c0eaf/output/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/dominickgurnari/.android/build-cache/6cb20177a89e6e4c2547393e464cebaf2a9b81ba/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/dominickgurnari/.android/build-cache/f52fbaa4f76fd4b4ccd6ff9419915a43d168a021/output/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/dominickgurnari/.android/build-cache/fc1e47d38efab4335421a23cbca78def2700961c/output/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/dominickgurnari/.android/build-cache/7e8585010abfddc1906a721c112526600ea75a95/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/dominickgurnari/.android/build-cache/c6e7b007b611ccb6ec2c0f66ec711840a2090974/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/dominickgurnari/.android/build-cache/b31996ef292d14efa32977d56da680a058e8c26d/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/dominickgurnari/.android/build-cache/140966ff41dd5bae22fb36e9474bad12e4907cc1/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/dominickgurnari/.android/build-cache/0577b3a098bcfacd2717e2c4d224a080dc276938/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/dominickgurnari/.android/build-cache/17db3cc54bee3d25c7ad6d4cbfcd9244e4ba762a/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/210455b912b63a5ef236e2cc2ce865504c25d4f3/output/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/dominickgurnari/.android/build-cache/601d02ab546e46a3f8368378f9ff51e8da77ad84/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/dominickgurnari/.android/build-cache/617cb9ebba876c21b639a157a5bb01363bfba64c/output/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/dominickgurnari/.android/build-cache/25832ca204c2ec006ebe7cddfe04f25ff866836d/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/dominickgurnari/.android/build-cache/b24b75fcafc9766daf11cc9a44cfbc7d0e8b2486/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/dominickgurnari/.android/build-cache/20edbdaf8e5e216fdf5efffbaf122e2cb8dbbba0/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/dominickgurnari/.android/build-cache/4e90b4883a87a2cf86f09333abbbaac8854b204e/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/dominickgurnari/.android/build-cache/70e92747d0b6e9377b22da1d4af89053dfb4f1cd/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/dominickgurnari/.android/build-cache/172681c0faff062686c1d42743bf5b5294d91605/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/dominickgurnari/.android/build-cache/ad233b4bfffcdf30af1b3eae3d01472ec92b1e87/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/dominickgurnari/.android/build-cache/1c5c3906655550aa482600d96c9b0bec9c98fd61/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/dominickgurnari/.android/build-cache/773f184e04c1d9cc2dbc2c4efa035edd8f470461/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/dominickgurnari/.android/build-cache/c3059b879327d6957aea2173fce1d7bb6f7b43e3/output/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/dominickgurnari/.android/build-cache/2c7045189c3f0770a878dada781447b6e7b74861/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/dominickgurnari/.android/build-cache/c168e55aa326d5d4c71a2ac13740307857213627/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/dominickgurnari/.android/build-cache/4eae27a66c9ee17705bf4b54ad74ca7f47c912f7/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/dominickgurnari/.android/build-cache/db8cea2ca3b97c79043cc07346921aef06b9d5dc/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] /Users/dominickgurnari/.android/build-cache/5b76d86d60aab07da5b38478936e13a23a58fccc/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/dominickgurnari/.android/build-cache/827fcd4ecd852d72144e73a944decf0814128987/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-43
+activity#com.parse.starter.MainActivity
+ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:27-74
+activity#com.parse.starter.UserListActivity
+ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:9-54
+	android:name
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:19-51
+activity#com.parse.starter.UserFeedActivity
+ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:9-63
+	android:name
+		ADDED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:19-51
+uses-sdk
+INJECTED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:9.4.0] /Users/dominickgurnari/.android/build-cache/05b6a6cb09d4bf9ff39e941819c46043555eedf9/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.4.0] /Users/dominickgurnari/.android/build-cache/895ea06e5375fb8061a164b0d1963882d5fda258/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/dominickgurnari/.android/build-cache/bc98886a5b933040c32a1a30e36c4dbf05c04cbc/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/5ce2b89edad1dd0a060441874fe218ef56a814df/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/dominickgurnari/.android/build-cache/717323a8f087b1ff878871b24b11d687671cedcf/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] /Users/dominickgurnari/.android/build-cache/7e57a070870b8adb2d2bcb1119593432dfd1d9ce/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] /Users/dominickgurnari/.android/build-cache/7d472bd2bb7986b7df1dc011ab39b29af91bb275/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/dominickgurnari/.android/build-cache/93efc8d6675dc4c4531bb68790a152817fc9eb10/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/dominickgurnari/.android/build-cache/d0f670eb2ea4b9b877cdd7ced9836b869f4bfc34/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/dominickgurnari/.android/build-cache/db1297aa55f9b63231317541a9bf265e84f7ff6a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/dominickgurnari/.android/build-cache/51adcfb3ea1c4b9a76f5b2abf2ddd093bd53bebc/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/dominickgurnari/.android/build-cache/5aef22203bc8034b6cf60e2f528b964dd2e8f303/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/dominickgurnari/.android/build-cache/cb0312e938d3ea22c779bf810635c181b6c00995/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.4.0] /Users/dominickgurnari/.android/build-cache/6932e8f9c1a6c6a20a47fce745262ecb250f5877/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-config:9.4.0] /Users/dominickgurnari/.android/build-cache/3157a8454660ca6cc429ffb823541dbc4f7f90ee/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-contextmanager:9.4.0] /Users/dominickgurnari/.android/build-cache/39c8e841dcbefb0e8d89e759ba583b218dee821a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-crash:9.4.0] /Users/dominickgurnari/.android/build-cache/72eae026aa5c6640c040810be3e8d5b6692c0eaf/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.firebase:firebase-auth:9.4.0] /Users/dominickgurnari/.android/build-cache/6cb20177a89e6e4c2547393e464cebaf2a9b81ba/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.4.0] /Users/dominickgurnari/.android/build-cache/f52fbaa4f76fd4b4ccd6ff9419915a43d168a021/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.4.0] /Users/dominickgurnari/.android/build-cache/1885cf263673d29eeeb2cc2f4dc41d21b4feceb9/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /Users/dominickgurnari/.android/build-cache/c3d1cb48242a2c9ba645074124dad0bfa547ff24/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /Users/dominickgurnari/.android/build-cache/42cb8f0a9833d2424aeddb63e0b26f63a274f04b/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-messaging:9.4.0] /Users/dominickgurnari/.android/build-cache/fc1e47d38efab4335421a23cbca78def2700961c/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-storage:9.4.0] /Users/dominickgurnari/.android/build-cache/d9a1966ed8450fe5fb5393d4695cd9634707a7c4/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-storage-common:9.4.0] /Users/dominickgurnari/.android/build-cache/084afd92330a691198f4f705edf19bbcf8998c69/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-fitness:9.4.0] /Users/dominickgurnari/.android/build-cache/7e8585010abfddc1906a721c112526600ea75a95/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:9.4.0] /Users/dominickgurnari/.android/build-cache/c6e7b007b611ccb6ec2c0f66ec711840a2090974/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.4.0] /Users/dominickgurnari/.android/build-cache/b31996ef292d14efa32977d56da680a058e8c26d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.4.0] /Users/dominickgurnari/.android/build-cache/140966ff41dd5bae22fb36e9474bad12e4907cc1/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/dominickgurnari/.android/build-cache/0577b3a098bcfacd2717e2c4d224a080dc276938/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.4.0] /Users/dominickgurnari/.android/build-cache/17db3cc54bee3d25c7ad6d4cbfcd9244e4ba762a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/210455b912b63a5ef236e2cc2ce865504c25d4f3/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] /Users/dominickgurnari/.android/build-cache/601d02ab546e46a3f8368378f9ff51e8da77ad84/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /Users/dominickgurnari/.android/build-cache/617cb9ebba876c21b639a157a5bb01363bfba64c/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.4.0] /Users/dominickgurnari/.android/build-cache/25832ca204c2ec006ebe7cddfe04f25ff866836d/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-places:9.4.0] /Users/dominickgurnari/.android/build-cache/b24b75fcafc9766daf11cc9a44cfbc7d0e8b2486/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] /Users/dominickgurnari/.android/build-cache/20edbdaf8e5e216fdf5efffbaf122e2cb8dbbba0/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.4.0] /Users/dominickgurnari/.android/build-cache/4e90b4883a87a2cf86f09333abbbaac8854b204e/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.4.0] /Users/dominickgurnari/.android/build-cache/2d8c67935f3af295e8d222d7c361201d566a3d62/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/dominickgurnari/.android/build-cache/70e92747d0b6e9377b22da1d4af89053dfb4f1cd/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/dominickgurnari/.android/build-cache/172681c0faff062686c1d42743bf5b5294d91605/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] /Users/dominickgurnari/.android/build-cache/ad233b4bfffcdf30af1b3eae3d01472ec92b1e87/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] /Users/dominickgurnari/.android/build-cache/1c5c3906655550aa482600d96c9b0bec9c98fd61/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.4.0] /Users/dominickgurnari/.android/build-cache/d3efda05b6882d19fd0ef96f40da86780056e5dd/output/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.4.0] /Users/dominickgurnari/.android/build-cache/773f184e04c1d9cc2dbc2c4efa035edd8f470461/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /Users/dominickgurnari/.android/build-cache/c3059b879327d6957aea2173fce1d7bb6f7b43e3/output/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] /Users/dominickgurnari/.android/build-cache/2c7045189c3f0770a878dada781447b6e7b74861/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /Users/dominickgurnari/.android/build-cache/c168e55aa326d5d4c71a2ac13740307857213627/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/dominickgurnari/.android/build-cache/4eae27a66c9ee17705bf4b54ad74ca7f47c912f7/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/dominickgurnari/.android/build-cache/db8cea2ca3b97c79043cc07346921aef06b9d5dc/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] /Users/dominickgurnari/.android/build-cache/5b76d86d60aab07da5b38478936e13a23a58fccc/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.0] /Users/dominickgurnari/.android/build-cache/eeb34a6eab9b885cc9609a1f0245e64385959ac8/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/dominickgurnari/.android/build-cache/827fcd4ecd852d72144e73a944decf0814128987/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/dominickgurnari/.android/build-cache/51adcfb3ea1c4b9a76f5b2abf2ddd093bd53bebc/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/dominickgurnari/.android/build-cache/bc98886a5b933040c32a1a30e36c4dbf05c04cbc/output/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/dominickgurnari/.android/build-cache/bc98886a5b933040c32a1a30e36c4dbf05c04cbc/output/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/dominickgurnari/.android/build-cache/bc98886a5b933040c32a1a30e36c4dbf05c04cbc/output/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/dominickgurnari/.android/build-cache/bc98886a5b933040c32a1a30e36c4dbf05c04cbc/output/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/dominickgurnari/.android/build-cache/bc98886a5b933040c32a1a30e36c4dbf05c04cbc/output/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/dominickgurnari/.android/build-cache/bc98886a5b933040c32a1a30e36c4dbf05c04cbc/output/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/dominickgurnari/.android/build-cache/bc98886a5b933040c32a1a30e36c4dbf05c04cbc/output/AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/5ce2b89edad1dd0a060441874fe218ef56a814df/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /Users/dominickgurnari/.android/build-cache/70e92747d0b6e9377b22da1d4af89053dfb4f1cd/output/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/dominickgurnari/.android/build-cache/172681c0faff062686c1d42743bf5b5294d91605/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/5ce2b89edad1dd0a060441874fe218ef56a814df/output/AndroidManifest.xml:25:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/dominickgurnari/.android/build-cache/717323a8f087b1ff878871b24b11d687671cedcf/output/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/dominickgurnari/.android/build-cache/717323a8f087b1ff878871b24b11d687671cedcf/output/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/dominickgurnari/.android/build-cache/717323a8f087b1ff878871b24b11d687671cedcf/output/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/dominickgurnari/.android/build-cache/717323a8f087b1ff878871b24b11d687671cedcf/output/AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/dominickgurnari/.android/build-cache/717323a8f087b1ff878871b24b11d687671cedcf/output/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/dominickgurnari/.android/build-cache/717323a8f087b1ff878871b24b11d687671cedcf/output/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/dominickgurnari/.android/build-cache/717323a8f087b1ff878871b24b11d687671cedcf/output/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/dominickgurnari/.android/build-cache/717323a8f087b1ff878871b24b11d687671cedcf/output/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.4.0] /Users/dominickgurnari/.android/build-cache/717323a8f087b1ff878871b24b11d687671cedcf/output/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/dominickgurnari/.android/build-cache/7e57a070870b8adb2d2bcb1119593432dfd1d9ce/output/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/dominickgurnari/.android/build-cache/7e57a070870b8adb2d2bcb1119593432dfd1d9ce/output/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/dominickgurnari/.android/build-cache/7e57a070870b8adb2d2bcb1119593432dfd1d9ce/output/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/dominickgurnari/.android/build-cache/7e57a070870b8adb2d2bcb1119593432dfd1d9ce/output/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/dominickgurnari/.android/build-cache/7e57a070870b8adb2d2bcb1119593432dfd1d9ce/output/AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/dominickgurnari/.android/build-cache/7e57a070870b8adb2d2bcb1119593432dfd1d9ce/output/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/dominickgurnari/.android/build-cache/7e57a070870b8adb2d2bcb1119593432dfd1d9ce/output/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/dominickgurnari/.android/build-cache/7e57a070870b8adb2d2bcb1119593432dfd1d9ce/output/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] /Users/dominickgurnari/.android/build-cache/7e57a070870b8adb2d2bcb1119593432dfd1d9ce/output/AndroidManifest.xml:29:13-58
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/dominickgurnari/.android/build-cache/93efc8d6675dc4c4531bb68790a152817fc9eb10/output/AndroidManifest.xml:6:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/dominickgurnari/.android/build-cache/93efc8d6675dc4c4531bb68790a152817fc9eb10/output/AndroidManifest.xml:6:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/dominickgurnari/.android/build-cache/93efc8d6675dc4c4531bb68790a152817fc9eb10/output/AndroidManifest.xml:7:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/dominickgurnari/.android/build-cache/93efc8d6675dc4c4531bb68790a152817fc9eb10/output/AndroidManifest.xml:7:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/dominickgurnari/.android/build-cache/93efc8d6675dc4c4531bb68790a152817fc9eb10/output/AndroidManifest.xml:8:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/dominickgurnari/.android/build-cache/93efc8d6675dc4c4531bb68790a152817fc9eb10/output/AndroidManifest.xml:8:18-90
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/dominickgurnari/.android/build-cache/72eae026aa5c6640c040810be3e8d5b6692c0eaf/output/AndroidManifest.xml:26:9-27:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/dominickgurnari/.android/build-cache/72eae026aa5c6640c040810be3e8d5b6692c0eaf/output/AndroidManifest.xml:27:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/dominickgurnari/.android/build-cache/72eae026aa5c6640c040810be3e8d5b6692c0eaf/output/AndroidManifest.xml:26:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/dominickgurnari/.android/build-cache/72eae026aa5c6640c040810be3e8d5b6692c0eaf/output/AndroidManifest.xml:29:9-30:50
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/dominickgurnari/.android/build-cache/72eae026aa5c6640c040810be3e8d5b6692c0eaf/output/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.4.0] /Users/dominickgurnari/.android/build-cache/72eae026aa5c6640c040810be3e8d5b6692c0eaf/output/AndroidManifest.xml:29:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/dominickgurnari/.android/build-cache/fc1e47d38efab4335421a23cbca78def2700961c/output/AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/dominickgurnari/.android/build-cache/fc1e47d38efab4335421a23cbca78def2700961c/output/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/dominickgurnari/.android/build-cache/fc1e47d38efab4335421a23cbca78def2700961c/output/AndroidManifest.xml:25:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/dominickgurnari/.android/build-cache/fc1e47d38efab4335421a23cbca78def2700961c/output/AndroidManifest.xml:27:13-29:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/dominickgurnari/.android/build-cache/fc1e47d38efab4335421a23cbca78def2700961c/output/AndroidManifest.xml:27:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/dominickgurnari/.android/build-cache/fc1e47d38efab4335421a23cbca78def2700961c/output/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.4.0] /Users/dominickgurnari/.android/build-cache/fc1e47d38efab4335421a23cbca78def2700961c/output/AndroidManifest.xml:28:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/dominickgurnari/.android/build-cache/0577b3a098bcfacd2717e2c4d224a080dc276938/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/210455b912b63a5ef236e2cc2ce865504c25d4f3/output/AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.4.0] /Users/dominickgurnari/.android/build-cache/0577b3a098bcfacd2717e2c4d224a080dc276938/output/AndroidManifest.xml:21:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:25:9-27:42
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:27:17-39
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:26:17-41
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:25:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:28:9-37:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:29:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:31:13-36:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:32:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:32:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:33:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/AndroidManifest.xml:35:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/dominickgurnari/.android/build-cache/172681c0faff062686c1d42743bf5b5294d91605/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/dominickgurnari/.android/build-cache/172681c0faff062686c1d42743bf5b5294d91605/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/dominickgurnari/.android/build-cache/ad233b4bfffcdf30af1b3eae3d01472ec92b1e87/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/dominickgurnari/.android/build-cache/ad233b4bfffcdf30af1b3eae3d01472ec92b1e87/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/dominickgurnari/.android/build-cache/ad233b4bfffcdf30af1b3eae3d01472ec92b1e87/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/dominickgurnari/.android/build-cache/ad233b4bfffcdf30af1b3eae3d01472ec92b1e87/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /Users/dominickgurnari/.android/build-cache/ad233b4bfffcdf30af1b3eae3d01472ec92b1e87/output/AndroidManifest.xml:9:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/dominickgurnari/.android/build-cache/c3059b879327d6957aea2173fce1d7bb6f7b43e3/output/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/dominickgurnari/.android/build-cache/c3059b879327d6957aea2173fce1d7bb6f7b43e3/output/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] /Users/dominickgurnari/.android/build-cache/c3059b879327d6957aea2173fce1d7bb6f7b43e3/output/AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/dominickgurnari/.android/build-cache/c168e55aa326d5d4c71a2ac13740307857213627/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/dominickgurnari/.android/build-cache/c168e55aa326d5d4c71a2ac13740307857213627/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/dominickgurnari/.android/build-cache/c168e55aa326d5d4c71a2ac13740307857213627/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /Users/dominickgurnari/.android/build-cache/c168e55aa326d5d4c71a2ac13740307857213627/output/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/dominickgurnari/.android/build-cache/db8cea2ca3b97c79043cc07346921aef06b9d5dc/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/dominickgurnari/.android/build-cache/db8cea2ca3b97c79043cc07346921aef06b9d5dc/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /Users/dominickgurnari/.android/build-cache/db8cea2ca3b97c79043cc07346921aef06b9d5dc/output/AndroidManifest.xml:22:13-58

@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/172681c0faff062686c1d42743bf5b5294d91605/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58e5c08a22b5671781da8d73d80609c82c99b2fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/d9a1966ed8450fe5fb5393d4695cd9634707a7c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dce0ffeb12e58a10b67fc98b89427ebc9a737593/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_b803c08aaf1ff9fbbc026545ed2acfbea733bd6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/c6e7b007b611ccb6ec2c0f66ec711840a2090974/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09ed29eec733f6329354315cb1b401240024a944/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/c3059b879327d6957aea2173fce1d7bb6f7b43e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62a5d649350f7876f188ff1f4227a439f4d8d411/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/7d472bd2bb7986b7df1dc011ab39b29af91bb275/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56e85fb1bc6525c741a7e800782fc2322d629a8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/5b76d86d60aab07da5b38478936e13a23a58fccc/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_1edb2e80f0476ba27254b5cc3413310fbab0565f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/895ea06e5375fb8061a164b0d1963882d5fda258/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6195f196d24a4053d19fabdd053be2e1a905d4a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/6cb20177a89e6e4c2547393e464cebaf2a9b81ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8bc19d35860d261286e7c88cf46f64f0ce9d620/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/d0f670eb2ea4b9b877cdd7ced9836b869f4bfc34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb00b5f8ffe830b50a2e87a0be9c1e58a2645c23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/93efc8d6675dc4c4531bb68790a152817fc9eb10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe8be92d8ad254527aa99803ad41998a22d9b3d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/bc98886a5b933040c32a1a30e36c4dbf05c04cbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb2cd8fa16225e376840efa9144406bf761af33e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/5aef22203bc8034b6cf60e2f528b964dd2e8f303/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9368668ee0a76882f482c7b0b1203f1fdb7baab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/2c7045189c3f0770a878dada781447b6e7b74861/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e43d57fb8399b68d7e80f69de54654743916d13c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/4e90b4883a87a2cf86f09333abbbaac8854b204e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9cd16918025d8cb312fb0689d6cba1770c8581a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/fc1e47d38efab4335421a23cbca78def2700961c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf03a36128a8769d95b1fc5346accb334a9d3278/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/eeb34a6eab9b885cc9609a1f0245e64385959ac8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_876af24b44abc606f2c6f1c797662cce47eb358c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/0577b3a098bcfacd2717e2c4d224a080dc276938/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae0b3eb62423c1567277d71124ad01dbf9499278/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/5b76d86d60aab07da5b38478936e13a23a58fccc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e678adebe8e4d4d427862fe1d2aebcf5e7fa857/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/617cb9ebba876c21b639a157a5bb01363bfba64c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_387b85c5cac9c0d0f0c43f624efd3f2863900dfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/42cb8f0a9833d2424aeddb63e0b26f63a274f04b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f632147223b17b9e90612c305b90b2a2029b0d1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/25832ca204c2ec006ebe7cddfe04f25ff866836d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ccebf56b488122e91cded77e59dcbf7b331e718/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/6932e8f9c1a6c6a20a47fce745262ecb250f5877/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f098c121dd2b1aed5738794efecdc4631d5d73c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/b24b75fcafc9766daf11cc9a44cfbc7d0e8b2486/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_813640d871c07f87e3ecc2c38c2b216a74f016cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/d8659baf1d1acaa74711c0c81300fd2726881b90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76cf8c6003d23e02bd9e81b76ecc20e971406140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/1885cf263673d29eeeb2cc2f4dc41d21b4feceb9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5736525b2567475fce25f601e5c7bdb739c488e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/b31996ef292d14efa32977d56da680a058e8c26d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2171fce3fcb10c67425a3fb555dc32ab534d5862/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_722824c054bb5b390b560d4fa2c806f45fe5f79e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/7e57a070870b8adb2d2bcb1119593432dfd1d9ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6dee5276f97d2a85cf5b57ed04e65d4e8e4ff18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/773f184e04c1d9cc2dbc2c4efa035edd8f470461/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0898c4ec12430450390b87cd718b4d3074f1a48d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/39c8e841dcbefb0e8d89e759ba583b218dee821a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64467f1b0a6121ad1bb54719d96d1d38ab25ac82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/db1297aa55f9b63231317541a9bf265e84f7ff6a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f901be0c26bcc5ef3b49359352c496ce6c612dcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/3157a8454660ca6cc429ffb823541dbc4f7f90ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f84359c62dc43ddc3df7689420e65ed98e495811/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/cb0312e938d3ea22c779bf810635c181b6c00995/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5835fe7222442ac5d86c95fa6f55e53ba0cc1c83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_f5460571d7fe0f2732d2ce7d3508970880d39114/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/827fcd4ecd852d72144e73a944decf0814128987/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c12e83c6383aff6ec55c5f0f8e098df9938b3f5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/084afd92330a691198f4f705edf19bbcf8998c69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08879f57e7d59f8e6267f3a960f2470a316b8b1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/c168e55aa326d5d4c71a2ac13740307857213627/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a69dd978bbe99f785ff583f54a38f7dc3625f48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/f52fbaa4f76fd4b4ccd6ff9419915a43d168a021/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_464ed5cf6c9ddf8ad6c7653a6de96a803a200da7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/70e92747d0b6e9377b22da1d4af89053dfb4f1cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1565072d44cbe06e4c13fe49c0bc4d3ff8323ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/4eae27a66c9ee17705bf4b54ad74ca7f47c912f7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60b9c854c6fa45e4fae578b9fb9948ffeae64a14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/2d8c67935f3af295e8d222d7c361201d566a3d62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3f6be80d1e5f4667834a42859e95dafbb5742fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8dfb141a2a0ee5d82920736a088acb012f453e8">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4bbb3196db6aa22909c73eb19bc7e4a9d15351a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/c3d1cb48242a2c9ba645074124dad0bfa547ff24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e992d0c8a1597a34b8d0570278299a0f3a4ba5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/5ce2b89edad1dd0a060441874fe218ef56a814df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_953260d32f67607ddc287c408f91a76b5a0a727f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/210455b912b63a5ef236e2cc2ce865504c25d4f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb2901fa0812dbd66f3aca05c0df1c934368d34d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/17db3cc54bee3d25c7ad6d4cbfcd9244e4ba762a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8060e720769474ccce2f944fcd41b11f39d32c5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_d2e3336cc5e39ca115d0d21ba7e4f7a087613557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/d430c45924a11e1df1cad37dbdb75c64253ce699/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a490b5bd39400d18a8cdcd897274d582c882035/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/20edbdaf8e5e216fdf5efffbaf122e2cb8dbbba0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_978c7c8a5e15e6993c9651cb068dd86568ecf6c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/601d02ab546e46a3f8368378f9ff51e8da77ad84/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a069588c8783b2f95cfabf19742adca87a404422/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/865ccf86d99fff9afb721c86e49e07c0e0497404/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea04afb26a639ae0ff957263c6c5a6c38afb3f24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/db8cea2ca3b97c79043cc07346921aef06b9d5dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0d786956089a6a97446d3ccb8460b7c7c70d49f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/7e8585010abfddc1906a721c112526600ea75a95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e15e7c397843d179f78b90d6471df304291463e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_c9bebbe16fddd00cfdad2dce1261f20f2dc7b8fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/1c5c3906655550aa482600d96c9b0bec9c98fd61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f5df2bece444f1e30f94a87aa9c56089d851c22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/d3efda05b6882d19fd0ef96f40da86780056e5dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4723921eb660399ef9bc908d911d27906b4021a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/ad233b4bfffcdf30af1b3eae3d01472ec92b1e87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67e13dc6fb955a2eb7e41cf9f91f8062331a1aa4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/72eae026aa5c6640c040810be3e8d5b6692c0eaf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88082926a8f45adaf381d638b34d7a3b3ae5aaec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/140966ff41dd5bae22fb36e9474bad12e4907cc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1115f2174df9d9a7e8de0bb3d2bbee27a4012d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/db1297aa55f9b63231317541a9bf265e84f7ff6a/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_96f3d5b5c6120e60282dda26e301eb01617fddcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/51adcfb3ea1c4b9a76f5b2abf2ddd093bd53bebc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba49140477cc783b89ef546df8d6bacbe903823f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dominickgurnari/.android/build-cache/717323a8f087b1ff878871b24b11d687671cedcf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/dominickgurnari/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8668ab6295f4302d9485069740bc51dfb85f5ba/classes.dex" />
+    </item>
+
+</items>
